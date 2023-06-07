@@ -70,7 +70,12 @@
 ### Merged develop into master
 <img width="665" alt="image" src="https://github.com/dimapovarchuk/GIT_Basics/assets/52627259/d0152e12-2150-4316-b612-9338d9923b0f">
 
-### 
+### Went to develop branch and repeat items once more (used names “images2”, “styles2” for new branches). Used git rebase command instead of git merge.
+<img width="716" alt="image" src="https://github.com/dimapovarchuk/GIT_Basics/assets/52627259/cd7799d9-bf0f-4e38-accd-8c09d0a7abc0">
+<img width="716" alt="image" src="https://github.com/dimapovarchuk/GIT_Basics/assets/52627259/d4d7bf6e-0cc4-486a-9384-a94de427e96a">
+<img width="695" alt="image" src="https://github.com/dimapovarchuk/GIT_Basics/assets/52627259/9149ff0c-9170-40f6-962a-bd0fc06964c1">
+
+
 
 
 
