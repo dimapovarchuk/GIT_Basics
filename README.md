@@ -22,6 +22,8 @@
 ### Created git ignore file
 <img width="960" alt="image" src="https://github.com/dimapovarchuk/GIT_Basics/assets/52627259/daef7798-3b55-45ce-b627-bfcb5fe06d98">
 
+### Opened git console in root directory
+
 
 
 
