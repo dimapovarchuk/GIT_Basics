@@ -23,6 +23,10 @@
 <img width="960" alt="image" src="https://github.com/dimapovarchuk/GIT_Basics/assets/52627259/daef7798-3b55-45ce-b627-bfcb5fe06d98">
 
 ### Opened git console in root directory
+<img width="287" alt="image" src="https://github.com/dimapovarchuk/GIT_Basics/assets/52627259/d8e45f0d-68e5-472f-bc30-225e774877ee">
+
+### Created directory  “task1 – git pracrice I”
+<img width="511" alt="image" src="https://github.com/dimapovarchuk/GIT_Basics/assets/52627259/d40205b9-157e-45e4-b54d-40c05b488d84">
 
 
 
